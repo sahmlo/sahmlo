@@ -11,9 +11,9 @@
 
 <br>
 	
+[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 [![JS](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![html](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)

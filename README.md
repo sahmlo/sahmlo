@@ -16,6 +16,7 @@
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![html](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
 
 
 ## 📊 **GitHub Stats**
@@ -31,10 +32,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmlo&theme=radical" width="48%" />
 </p>
+
 <br>
 
 ## 📚 **Academic Background**
-
+[<img align="left" height="100px" width="100px" src="https://github.com/sahmlo/sahmlo/blob/main/SenaiAnima.gif"/>](https://senai.portaldaindustria.com.br/)  
 **Student of systems and development**  
 [**Serviço Nacional de Aprendizagem Industrial - SENAI**](https://senai.portaldaindustria.com.br/)  
-Frebuary 2025 – December 2026
+Febuary 2025 – December 2026

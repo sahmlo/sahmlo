@@ -23,12 +23,9 @@
 
 <br>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahmlo&show_icons=true&theme=radical" width="48%" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmlo&layout=compact&theme=radical" width="48%" />
-</p>
+
+ | <img src="https://github-readme-stats.vercel.app/api?username=sahmlo&show_icons=true&theme=radical" width="48%" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmlo&layout=compact&theme=radical" width="48%" /> |
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmlo&theme=radical" width="48%" />
 </p>

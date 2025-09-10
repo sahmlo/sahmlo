@@ -14,12 +14,11 @@
 
 ---
 
-### 💻 **Technologies**
 <!--Linguagens e ferramentas-->
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens:
-<div style="display: inline_block"><br> 
+<div style="display: inline_block">
 
-<br>
+<br> 
 	
 [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)

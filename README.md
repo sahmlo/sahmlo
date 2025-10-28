@@ -20,6 +20,8 @@
 [![html](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![Mysql](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Ferramentas:
 <div style="display: inline_block">
@@ -28,6 +30,7 @@
 
 <img align="center" alt="vscode" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="center" alt="canva" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+<img align="center" alt="canva" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 
 <br><br> 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats

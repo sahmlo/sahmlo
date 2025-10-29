@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sahmlo/sahmlo/blob/main/sara.gif" alt="Sara Melo" />
+  <img src="https://github.com/sahmlo/sahmlo/blob/main/melo.gif" alt="Sara Melo" />
 </p>
 
 <p align="center">

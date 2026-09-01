@@ -12,7 +12,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/sahmlo/sahmlo/output/pacman-contribution-graph-dark.svg">
 </picture>
 
 <!--Linguagens-->

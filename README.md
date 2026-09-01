@@ -36,13 +36,13 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats
 
 <br>
-
+<!-- </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahmlo&show_icons=true&theme=radical" width="48%" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmlo&layout=compact&theme=radical" width="48%" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahmlo&theme=radical" width="48%" />
 </p>

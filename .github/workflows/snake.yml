@@ -1,43 +1,54 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
+  # Executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */24 * * *"
+
+  # Permite executar o workflow manualmente
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # Executa sempre que houver alteração na branch principal
   push:
     branches:
-    - master
-    
+      - main
 
 jobs:
   generate:
-    permissions: 
+    # Permite que o workflow grave os arquivos no repositório
+    permissions:
       contents: write
+
+    # Sistema utilizado para executar o workflow
     runs-on: ubuntu-latest
+
+    # Tempo máximo de execução
     timeout-minutes: 5
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+
+      # Gera o Snake usando o gráfico de contribuições do GitHub
+      - name: Gerar Snake
         uses: Platane/snk/svg-only@v3
         with:
+          # Usuário dono do repositório
           github_user_name: ${{ github.repository_owner }}
+
+          # Arquivos que serão gerados
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      # Publica os arquivos na branch output
+      - name: Publicar Snake na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
+          # Branch onde os arquivos serão publicados
           target_branch: output
+
+          # Pasta onde os arquivos foram gerados
           build_dir: dist
+
         env:
+          # Token que permite ao GitHub Actions modificar o repositório
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

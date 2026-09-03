@@ -1,7 +1,7 @@
 <!-- Apresentação -->
 
 <p align="center">
-  <img src="https://github.com/sahmlo/sahmlo/blob/main/melo.gif" alt="Sara Melo" />
+  <img src="https://github.com/sahmlo/sahmlo/blob/main/SaraAnima.gif" alt="Sara Melo" />
 </p>
 
 <!-- Snake -->
@@ -105,9 +105,13 @@ February 2025 – December 2026
 
 <!-- UFBA -->
 
+<p>
+  <img align="left" height="100px" width="100px" src="https://github.com/sahmlo/sahmlo/blob/main/UfbaAnima.gif" />
+</p>
+
 **Bachelor's Degree in Science and Technology**  
-[**Universidade Federal da Bahia — UFBA**](https://www.ufba.br/)
+[**Universidade Federal da Bahia — UFBA**](https://ufba.br/)
 
 2026 – Present
 
-<br>
+<br clear="left">

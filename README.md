@@ -1,53 +1,79 @@
 <!-- Apresentação -->
+
 <p align="center">
   <img src="https://github.com/sahmlo/sahmlo/blob/main/melo.gif" alt="Sara Melo" />
 </p>
 
-<!-- Jogo da Cobra -->
+<!-- Snake -->
+
 <p align="center">
   <img src="https://github.com/sahmlo/sahmlo/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<!-- Languages -->
+<!-- Linguagens -->
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true" />&nbsp; **Languages**
 
 <div style="display: inline_block">
   <br>
-
-  [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
-  [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-  [![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
-  [![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-  [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
-  [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
-  [![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
-  [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-
+  <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 <br><br>
 
 ---
 
-<!-- Tools -->
+<!-- Frameworks e tecnologias -->
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true" />&nbsp; **Frameworks & Technologies**
+
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</div>
+
+<br><br>
+
+---
+
+<!-- Banco de dados -->
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true" />&nbsp; **Database**
+
+<div style="display: inline_block">
+  <br>
+  <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+<br><br>
+
+---
+
+<!-- Ferramentas -->
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true" />&nbsp; **Tools**
 
 <div style="display: inline_block">
   <br>
-
-  <img align="center" alt="VS Code" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Canva" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img align="center" alt="Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
+  <img align="center" alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Canva" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
 
 <br><br>
 
 ---
 
-<!-- GitHub Stats -->
+<!-- Estatísticas do GitHub -->
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" />&nbsp; **GitHub Stats**
 
 <br>
@@ -60,10 +86,12 @@
 
 ---
 
-<!-- Academic Background -->
+<!-- Formação acadêmica -->
+
 ## 📚 Academic Background
 
 <!-- SENAI -->
+
 <p>
   <img align="left" height="100px" width="100px" src="https://github.com/sahmlo/sahmlo/blob/main/SenaiAnima.gif" />
 </p>
@@ -76,6 +104,7 @@ February 2025 – December 2026
 <br clear="left">
 
 <!-- UFBA -->
+
 **Bachelor's Degree in Science and Technology**  
 [**Universidade Federal da Bahia — UFBA**](https://www.ufba.br/)
 
